@@ -19,8 +19,8 @@ var util = require('util');
 
 
 var MAVEN_PACKAGE_LIST = [
-  getMavenPackageInfo('software.amazon.kinesis', 'amazon-kinesis-client-multilang', '2.1.2'),
-  getMavenPackageInfo('software.amazon.kinesis', 'amazon-kinesis-client', '2.1.2'),
+  getMavenPackageInfo('software.amazon.kinesis', 'amazon-kinesis-client-multilang', '2.3.1'),
+  getMavenPackageInfo('software.amazon.kinesis', 'amazon-kinesis-client', '2.3.1'),
   getMavenPackageInfo('software.amazon.awssdk', 'kinesis', '2.4.0'),
   getMavenPackageInfo('software.amazon.awssdk', 'aws-cbor-protocol', '2.4.0'),
   getMavenPackageInfo('com.fasterxml.jackson.dataformat', 'jackson-dataformat-cbor', '2.9.8'),
